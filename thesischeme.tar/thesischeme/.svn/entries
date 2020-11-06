@@ -1,52 +1,0 @@
-8
-
-dir
-9
-file:///home/takumi/repository/thesischeme/trunk
-file:///home/takumi/repository/thesischeme
-
-
-
-2008-02-06T14:52:10.456378Z
-9
-takumi
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-49a5821c-80e8-45e2-99b7-9dc9f284367e
-
-sample
-dir
-
-Rakefile
-file
-
-
-
-
-2008-02-06T14:51:33.000000Z
-2f47d4151918620bb14d2227d70d3dd0
-2008-02-06T14:52:10.456378Z
-9
-takumi
-
-doc
-dir
-
-src
-dir
-
-obj
-dir
-
